@@ -8,7 +8,7 @@
           <div class="col-md-6 order-2 order-md-1 text-center text-md-left">
             <h1 class="text-white font-weight-bold mb-4">LibertyTown</h1>
             <h2 class="text-white mb-4" id="countdown">Decentralized Darknet Market</h2>
-            <h3 class="text-white mb-5">Anonymous and \Unstoppable p2p darknet network.</h3>
+            <h3 class="text-white mb-5">Anonymous and Unstoppable p2p darknet network.</h3>
 
             <router-link :to="{  path: '/', hash: '#access' }" class="btn btn-main-md">Access Now!</router-link>
 
